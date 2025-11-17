@@ -14,8 +14,8 @@ The Hollow Echoes blends short survival windows with deliberate investigation sc
 ## How to run locally (GitHub Pages)
 1. Clone the repo:
 ```bash
-git clone https://github.com/SupGamerNL/the-hollow-echoss.git
-cd the-holloa-echoes
+git clone https://github.com/SupGamerNL/the-hollow-echoes.git
+cd the-hollow-echoes
 ```
 2. Open `index.html` (for local testing you can just open it in a browser). To serve via a simple local server (recommended):
 ```bash
